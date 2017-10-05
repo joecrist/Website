@@ -1,0 +1,36 @@
+
+
+body{background: 
+	repeating-linear-gradient(to left, blue, green);
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+	
+img {
+	border: 5px solid black;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+}
+img {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+
+}
+.col-1 {
+	margin: 0 auto;
+	text-align: center;
+}
+p {
+	margin: 0 auto;
+	text-align: center;
+}
